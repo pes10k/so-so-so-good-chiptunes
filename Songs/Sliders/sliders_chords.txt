@@ -1,0 +1,75 @@
+"Sliders" (2016)
+
+//Chords
+A, Asus2, Aaug, c#m, D, E, E7, f#m, f#m9
+
+//Sequence
+Intro, Bridge,
+Verse A, Verse A,
+Chorus, Chorus, 
+Verse B, Chorus, Verse B,
+Verse A, Verse A, 
+Refrain,
+Bridge, Bridge, Bridge,
+Verse A, Verse A,
+Outro.
+
+//Intro (4 ms)
+A
+A
+f#m9
+f#m9
+
+//Bridge (8 ms)
+A
+A
+Aaug
+Aaug
+Aaug
+f#m
+Asus2
+A
+
+//Verse A (6 ms)
+A
+A
+A
+A
+f#m
+D
+
+//Chorus (8 ms)
+A
+A
+Asus2
+Asus2
+f#m
+f#m9
+D
+D - E
+
+//Verse B (10 ms)
+A
+A
+A
+A
+Asus2
+Asus2
+f#m
+f#m
+D
+D
+
+//Refrain (4 ms)
+A
+A
+f#m9
+f#m9
+
+//Outro
+A
+A
+c#m
+c#m - E7
+A
+A
