@@ -1,7 +1,7 @@
 "Sliders" (2016)
 
 //Chords
-A, Asus2, Aaug, c#m, D, E, E7, f#m, f#m9
+A, Asus2, Aaug, Aadd9, c#m, D, E7, f#m, f#m9
 
 //Sequence
 Intro, Bridge,
@@ -25,9 +25,9 @@ A
 A
 Aaug
 Aaug
-Aaug
+Aaug - f#m
 f#m
-Asus2
+Aadd9
 A
 
 //Verse A (6 ms)
@@ -42,11 +42,11 @@ D
 A
 A
 Asus2
-Asus2
+Asus2 
 f#m
 f#m9
 D
-D - E
+D - E7
 
 //Verse B (10 ms)
 A
