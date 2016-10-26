@@ -4,12 +4,11 @@
 A, Asus2, Aaug, Aadd9, c#m, D, E7, f#m, f#m9
 
 //Sequence
-Intro, Bridge,
-Verse A, Verse A,
-Chorus, Chorus, 
-Verse B, Chorus, Verse B,
+Intro, Bridge Material,
+Verse A, Verse A
+Verse B, Segue, Verse B,
 Verse A, Verse A, 
-Refrain,
+Transition,
 Bridge, Bridge, Bridge,
 Verse A, Verse A,
 Outro.
@@ -20,7 +19,7 @@ A
 f#m9
 f#m9
 
-//Bridge (8 ms)
+//Bridge Material / Bridge (8 ms)
 A
 A
 Aaug
@@ -38,16 +37,6 @@ A
 f#m
 D
 
-//Chorus (8 ms)
-A
-A
-Asus2
-Asus2 
-f#m
-f#m9
-D
-D - E7
-
 //Verse B (10 ms)
 A
 A
@@ -60,7 +49,17 @@ f#m
 D
 D
 
-//Refrain (4 ms)
+//Verse B Segue (8 ms)
+A
+A
+Asus2
+Asus2 
+f#m
+f#m9
+D
+D - E7
+
+//Transition to Bridge (4 ms)
 A
 A
 f#m9
