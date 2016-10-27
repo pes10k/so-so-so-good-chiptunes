@@ -9,7 +9,7 @@ Verse A, Verse A
 Verse B, Segue, Verse B,
 Verse A, Verse A, 
 Transition,
-Bridge, Bridge, Bridge,
+Bridge, Bridge,
 Verse A, Verse A,
 Outro.
 
