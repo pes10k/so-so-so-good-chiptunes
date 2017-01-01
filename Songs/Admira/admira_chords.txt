@@ -1,0 +1,39 @@
+“Admira” (2016)
+
+//Chords
+In D: D, Dsus2, em, em7, f#m, f#m7, G, Gmaj9, gm7, A, A7sus4, bm.
+In F: F, Fmaj9, gm7, am7, Abmaj7, Bb, Bb(add9), Bbmaj7, Bbmaj9, bbm7, C, C7, C7(sus4), dm, dm7.
+
+//Sequence
+Intro, 
+Verse A, Verse B, 
+Transition, Development, Segue, 
+Verse A.
+
+//Intro (2 ms) in D
+Gmaj9, 
+
+//Verse A (16 ms) in D
+Gmaj9, em, A, D (first inversion), 
+Gmaj9, em, A, D (first inversion), 
+Gmaj9, em, A, f#m, 
+bm, em, A, Dsus2 - D, 
+
+//Verse B (16 ms) in F
+F, Bb(add9), dm, C7(sus4), 
+F, am7, Bbmaj7, C7, 
+F, Bb, dm, C7, 
+F, am7 - Abmaj7, bbm7, C, 
+
+//Transition (8 ms) in F
+Bbmaj9, C, F, dm - dm7, 
+gm7, C7, Fmaj9, dm, 
+
+//Development (8 ms) in D
+D, f#m7, G, A, 
+D, f#m7, G, A, 
+em7, A, bm, D, 
+em7, A, D, D, 
+
+//Segue (2 ms) in D
+gm7, A7sus4, 
