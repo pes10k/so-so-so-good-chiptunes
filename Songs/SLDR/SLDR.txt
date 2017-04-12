@@ -1,4 +1,4 @@
-"Sliders" (2016)
+“SLDR” (2016)
 
 //Chords
 A, Asus2, Aaug, Aadd9, c#m, D, E7, f#m, f#m9
