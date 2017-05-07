@@ -6,3 +6,5 @@ ehthumbs.db
 
 # Folder config file
 Desktop.ini
+
+*.nosync
